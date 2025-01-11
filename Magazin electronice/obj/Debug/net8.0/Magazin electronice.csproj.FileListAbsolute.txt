@@ -1,0 +1,7 @@
+C:\Users\David\RiderProjects\Magazin electronice\Magazin electronice\obj\Debug\net8.0\Magazin electronice.csproj.AssemblyReference.cache
+C:\Users\David\RiderProjects\Magazin electronice\Magazin electronice\obj\Debug\net8.0\Magazin electronice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\RiderProjects\Magazin electronice\Magazin electronice\obj\Debug\net8.0\Magazin electronice.AssemblyInfoInputs.cache
+C:\Users\David\RiderProjects\Magazin electronice\Magazin electronice\obj\Debug\net8.0\Magazin electronice.AssemblyInfo.cs
+C:\Users\David\RiderProjects\Magazin electronice\Magazin electronice\obj\Debug\net8.0\Magazin electronice.csproj.CoreCompileInputs.cache
+C:\Users\David\RiderProjects\Magazin electronice\Magazin electronice\obj\Debug\net8.0\Magazin electronice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\David\RiderProjects\Magazin electronice\Magazin electronice\obj\Debug\net8.0\Magazin electronice.MvcApplicationPartsAssemblyInfo.cache
